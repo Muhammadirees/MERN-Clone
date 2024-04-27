@@ -3,11 +3,9 @@
 ## Description
 This project is a YouTube clone built using React and Vite. It aims to replicate the core functionalities and user interface of the popular video-sharing platform, allowing users to browse videos, watch them, and interact with the interface just like on the real YouTube.
 
-![youtube-clone-1](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png) ![youtube-clone-1](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png)
-
 <p float="left">
-  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png" width="30%" />
-  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png" width="30%" /> 
+  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png" width="45%" />
+  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png" width="45%" /> 
 </p>
 ## Features
 
