@@ -1,4 +1,4 @@
-export const API_KEY = "AIzaSyB9pug3nJAymuHzKWs98XeR5RndfE6DeXQ";
+export const API_KEY = "Enter the key from youtube data api";
 
 export const value_converter = (value) => {
   if (value >= 1000000) {
