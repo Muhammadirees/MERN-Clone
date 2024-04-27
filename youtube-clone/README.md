@@ -7,6 +7,7 @@ This project is a YouTube clone built using React and Vite. It aims to replicate
   <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png" width="45%" />
   <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png" width="45%" /> 
 </p>
+
 ## Features
 
 - Browse trending videos
