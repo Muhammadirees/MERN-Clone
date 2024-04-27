@@ -1,5 +1,22 @@
-# youtube-clone
-create in React using vite
+# YouTube-Clone with React and Vite
 
+## Description
+This project is a YouTube clone built using React and Vite. It aims to replicate the core functionalities and user interface of the popular video-sharing platform, allowing users to browse videos, watch them, and interact with the interface just like on the real YouTube.
 
-![Edusity Logo](https://github.com/Muhammadirees/edusity/blob/master/src/assets/website-preview.png](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png)
+![youtube-clone-1](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png)
+
+## Features
+
+- Browse trending videos
+- Search for videos by keyword
+- Watch videos in high quality
+- Interact with video comments and likes
+- Responsive design for mobile and desktop
+
+## Technologies Used
+
+- React.js
+- Vite
+- React Router DOM
+- Moment.js
+
