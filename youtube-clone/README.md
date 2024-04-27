@@ -6,9 +6,8 @@ This project is a YouTube clone built using React and Vite. It aims to replicate
 ![youtube-clone-1](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png) ![youtube-clone-1](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png)
 
 <p float="left">
-  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png" width="100" />
-  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png" width="100" /> 
-  <img src="image3.jpg" width="100" />
+  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-1.png" width="50%" />
+  <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/youtube-clone-2.png" width="50%" /> 
 </p>
 ## Features
 
