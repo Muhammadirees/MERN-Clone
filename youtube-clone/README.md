@@ -20,6 +20,7 @@ This project is a YouTube clone built using React and Vite. It aims to replicate
 
 - React.js
 - Vite
+- Tailwindcss
 - React Router DOM
 - Moment.js
 - YouTube Data API (to fetch video data)
