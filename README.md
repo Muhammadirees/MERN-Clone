@@ -1,6 +1,6 @@
-# MERN Clone Apps Collection
+# React Clone Apps Collection
 
-Welcome to my MERN clone apps collection! This repository contains a collection of clone applications developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+Welcome to my React clone apps collection! This repository contains a collection of clone applications developed using the React, vite, tailwindcss, create-react-app and many more .
 
 ## Clones Included
 
