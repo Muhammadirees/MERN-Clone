@@ -1,6 +1,6 @@
 # React Clone Apps Collection
 
-Welcome to my React clone apps collection! This repository contains a collection of clone applications developed using the React, vite, tailwindcss, create-react-app and many more .
+Welcome to my React clone apps collection! This repository contains a collection of clone applications developed using React, vite, tailwindcss, Bootstrap, Material UI, shadcn , create-react-app, and many more.
 
 ## Clones Included
 
