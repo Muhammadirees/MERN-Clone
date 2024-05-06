@@ -1,0 +1,10 @@
+.banner-img {
+  width: 100%;
+  mask-image: linear-gradient(to right, transparent, black 75%);
+  -weblit-mask-image: linear-gradient(to right, transparentm, black 75%);
+}
+@media (max-width: 1024px) {
+  .title-cards {
+    display: none;
+  }
+}
