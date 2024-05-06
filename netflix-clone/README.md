@@ -5,8 +5,8 @@
 This project is a Netflix clone built using React, Vite, Firebase, and other libraries. It aims to replicate the core functionalities and user interface of the popular streaming platform Netflix, providing users with a selection of movies and TV shows to watch.
 
 <div  style="display:flex;">
-    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-2.png" /> 
-    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-3.png"" /> 
+    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-2.png" width="45%"/> 
+    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-3.png" width="45%"/> 
 </div>
 
 ## Features
