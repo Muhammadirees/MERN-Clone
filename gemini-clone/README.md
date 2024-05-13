@@ -1,8 +1,27 @@
-# React + Vite
+# Gemini Clone with React and Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Gemini Clone](https://github.com/Muhammadirees/react-clone-apps/blob/master/assets/gemini-clone-1.png)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a Gemini clone built using React and Vite. It aims to replicate the core functionalities and user interface of the Gemini cryptocurrency exchange platform, providing users with a secure and efficient trading experience.
+
+## Features
+
+- Buy and sell cryptocurrencies
+- View real-time cryptocurrency prices and market data
+- Manage cryptocurrency holdings and portfolio
+- Secure authentication and account management
+- Responsive design for mobile and desktop
+- [Add other features as applicable]
+
+## Technologies Used
+
+- React.js
+- Vite
+- Google/Generative-ai
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Muhammadirees/react-clone-apps/blob/master/assets/gemini-clone-1.png)
+![Screenshot 2](https://github.com/Muhammadirees/react-clone-apps/blob/master/assets/gemini-clone-2.png)
