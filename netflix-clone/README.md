@@ -1,8 +1,36 @@
-# React + Vite
+# Netflix Clone with React and Vite
+![Netflix Clone](https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-1.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a Netflix clone built using React, Vite, Firebase, and other libraries. It aims to replicate the core functionalities and user interface of the popular streaming platform Netflix, providing users with a selection of movies and TV shows to watch.
 
-Currently, two official plugins are available:
+<div  style="display:flex;">
+    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-2.png" width="45%"/> 
+    <img src="https://github.com/Muhammadirees/MERN-Clone/blob/master/assets/netflix-clone-3.png" width="45%"/> 
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Browse a collection of movies and TV shows
+- Search for specific titles
+- Watch trailers and previews
+- Responsive design for mobile and desktop
+- **Authentication with Firebase**:
+  - User registration and login
+  - Secure authentication using Firebase Authentication
+- Integration with Firebase for authentication and data storage
+- Real-time updates using Firebase hooks
+- Toast notifications using React Toastify
+
+
+## Technologies Used
+
+- React.js
+- Vite
+- Firebase
+- Tailwindcss
+- React Router DOM
+- Moment.js
+- React Toastify
+- TMDB Data API (to fetch video data)
+
